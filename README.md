@@ -1,5 +1,16 @@
 ### Hi there 👋
+My name is Charles Lee and I am studying Electrical Engineering at UC San Diego.
 
+- 😄 Pronouns: he/him/his
+
+- 🔭 I’m currently working on ...
+    - implementing a relational database using C++
+
+- 🌱 I’m currently learning ...
+    - design patterns and techniques in C++
+    - machine learning in Python
+
+- ⚡ Fun fact: My hobbies include making music, playing video games, and playing badminton.
 <!--
 **Charlychee/Charlychee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
