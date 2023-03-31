@@ -4,11 +4,11 @@ My name is Charles Lee and I am studying Electrical Engineering at UC San Diego.
 - 😄 Pronouns: he/him/his
 
 - 🔭 I’m currently working on ...
-    - implementing a relational database using C++
+    - creating a machine learning model that classifies hand signs
+    - integrating the above machine learning model with a live camera to play musical notes based on hand signs.
 
 - 🌱 I’m currently learning ...
-    - design patterns and techniques in C++
-    - machine learning in Python
+    - robotics theory in sensing, estimation, planning, and controls.
 
 - ⚡ Fun fact: My hobbies include making music, playing video games, and playing badminton.
 <!--
