@@ -10,7 +10,7 @@ My name is Charles Lee and I am studying Electrical Engineering at UC San Diego.
 - 🌱 I’m currently learning ...
     - robotics theory in sensing, estimation, planning, and controls.
 
-- ⚡ Fun fact: My hobbies include making music, playing video games, and playing badminton.
+- ⚡ Fun fact: My hobbies include making music, swing dancing, playing video games, and playing badminton.
 <!--
 **Charlychee/Charlychee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
