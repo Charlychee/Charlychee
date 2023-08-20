@@ -1,14 +1,13 @@
 ### Hi there 👋
-My name is Charles Lee and I am studying Electrical Engineering at UC San Diego.
+My name is Charles Lee and I am studying Electrical Engineering with a depth in Intelligent Systems, Robotics, and Control at UC San Diego.
 
 - 😄 Pronouns: he/him/his
 
 - 🔭 I’m currently working on ...
-    - creating a machine learning model that classifies hand signs
-    - integrating the above machine learning model with a live camera to play musical notes based on hand signs.
+    - an autonomous robot that navigates through a racetrack
 
 - 🌱 I’m currently learning ...
-    - robotics theory in sensing, estimation, planning, and controls.
+    - robotics theory in sensing, estimation, planning, learning, and controls.
 
 - ⚡ Fun fact: My hobbies include making music, swing dancing, playing video games, and playing badminton.
 <!--
