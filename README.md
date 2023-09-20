@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Charles Lee and I am studying Electrical Engineering with a depth in Intelligent Systems, Robotics, and Control at UC San Diego.
+My name is Charles Chi Lee and I am studying Electrical Engineering with a depth in Intelligent Systems, Robotics, and Control at UC San Diego.
 
 - 😄 Pronouns: he/him/his
 
